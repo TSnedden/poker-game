@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+  background-color: #7b1113;
+  padding: 20px;
+}
+
+.App button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

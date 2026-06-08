@@ -1,0 +1,25 @@
+.player {
+  background: white;
+  padding: 8px;
+  border-radius: 10px;
+  width: 110px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
+
+.player h2 {
+  font-size: 12px;
+  margin: 0;
+}
+
+.player p {
+  font-size: 12px;
+  margin: 4px 0;
+}
+
+.player-cards {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-top: 6px;
+}
